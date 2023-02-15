@@ -13,9 +13,9 @@ require (
 	github.com/deckarep/golang-set v1.7.1
 	github.com/envoyproxy/go-control-plane v0.9.6
 	github.com/golang/mock v1.3.1
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/golangci/golangci-lint v1.30.0
-	github.com/google/go-cmp v0.5.0
+	github.com/google/go-cmp v0.5.5
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/mux v1.7.3
 	github.com/hashicorp/vault/api v1.0.4
@@ -28,7 +28,7 @@ require (
 	github.com/onsi/gomega v1.10.1
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.0.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rs/zerolog v1.18.0
 	github.com/servicemeshinterface/smi-sdk-go v0.4.1
 	github.com/spf13/cobra v1.0.0
